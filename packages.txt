@@ -1,5 +1,5 @@
-chromium-browser
-chromium-chromedriver
+chromium
+chromium-driver
 xdg-utils
 fonts-liberation
 libasound2
