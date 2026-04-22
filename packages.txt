@@ -1,0 +1,9 @@
+chromium-browser
+chromium-chromedriver
+xdg-utils
+fonts-liberation
+libasound2
+libnss3
+libnspr4
+wget
+unzip
