@@ -2,7 +2,6 @@ chromium
 chromium-driver
 xdg-utils
 fonts-liberation
-libasound2
 libnss3
 libnspr4
 wget
